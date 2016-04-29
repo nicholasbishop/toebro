@@ -1,4 +1,4 @@
-toebro
+toebro GOTY edition
 ======
 
-A tic-tac-toe game using pyglet and OpenGL
+New co-op mode
